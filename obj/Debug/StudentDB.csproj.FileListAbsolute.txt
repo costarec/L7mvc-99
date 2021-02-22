@@ -1,0 +1,14 @@
+C:\devl\StudentDB\bin\Debug\StudentDB.exe.config
+C:\devl\StudentDB\bin\Debug\StudentDB.exe
+C:\devl\StudentDB\bin\Debug\StudentDB.pdb
+C:\devl\StudentDB\obj\Debug\StudentDB.csprojAssemblyReference.cache
+C:\devl\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+C:\devl\StudentDB\obj\Debug\StudentDB.exe
+C:\devl\StudentDB\obj\Debug\StudentDB.pdb
+C:\devl\t200A\StudentDB\bin\Debug\StudentDB.exe.config
+C:\devl\t200A\StudentDB\bin\Debug\StudentDB.exe
+C:\devl\t200A\StudentDB\bin\Debug\StudentDB.pdb
+C:\devl\t200A\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+C:\devl\t200A\StudentDB\obj\Debug\StudentDB.exe
+C:\devl\t200A\StudentDB\obj\Debug\StudentDB.pdb
+C:\devl\t200A\StudentDB\obj\Debug\StudentDB.csprojAssemblyReference.cache

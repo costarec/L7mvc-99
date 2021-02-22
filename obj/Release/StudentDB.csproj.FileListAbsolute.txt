@@ -1,0 +1,7 @@
+C:\devl\t200A\StudentDB\bin\Release\StudentDB.exe.config
+C:\devl\t200A\StudentDB\bin\Release\StudentDB.exe
+C:\devl\t200A\StudentDB\bin\Release\StudentDB.pdb
+C:\devl\t200A\StudentDB\obj\Release\StudentDB.csproj.CoreCompileInputs.cache
+C:\devl\t200A\StudentDB\obj\Release\StudentDB.exe
+C:\devl\t200A\StudentDB\obj\Release\StudentDB.pdb
+C:\devl\t200A\StudentDB\obj\Release\StudentDB.csprojAssemblyReference.cache
